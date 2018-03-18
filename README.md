@@ -1,2 +1,3 @@
-# cp-solved
-The Jungle of Competitive Programing
+# Competitive Programming
+
+Learning Competitive Programming
