@@ -1,5 +1,5 @@
 // Status	: Accepted (hardzal)
-// Problems	: http://www.spoj.com/problems/SPSUM
+// Problems	: http://www.spoj.com/submit/SMPSUM
 
 #include<bits/stdc++.h>
 using namespace std;
