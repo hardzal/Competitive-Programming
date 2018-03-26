@@ -5,9 +5,10 @@
 using namespace std;
 
 int main() {
-	int i, n, x[100], y[100], z[100];	
+	int i, n,	
 	// your code here
 	cin >> n;
+	int x[n], y[n], z[n];
 	for(i = 0; i < n; i++) {
 		cin >> x[i] >> y[i];
 		z[i] = x[i] + y[i];
