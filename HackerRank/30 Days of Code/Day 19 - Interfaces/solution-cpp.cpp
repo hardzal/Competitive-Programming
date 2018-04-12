@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/30-interfaces
 #include <cmath>
 #include <cstdio>
 #include <vector>
