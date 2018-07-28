@@ -4,18 +4,13 @@ static const string abjad = "abcdefghijklmnopqrstuvwxyz";
 
 int main() {
 	string s;
-	int x, i, j;
+	int x, i;
 	getline(cin, s);
 	cin >> x;
 	if(s.length() <= 100) {
 		for(i = 0; i < s.length(); i++) {
 			if(s[i] >= 'a' && s[i] <= 'z') {
-				for(j = 0; j < abjad.length(); j++) {
-					if(s[i] == abjad[j]) {
-						s[i] = abjad[(j + x) % 26];
- 						break;
-					}
-				}
+                s[i] = abjad[(s[i] + x - 97) % 26];
 			}
 		}
 		cout << s << endl;
