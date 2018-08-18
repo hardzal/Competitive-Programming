@@ -39,6 +39,8 @@ Learning Competitive Programming
  - Kaggle
  - ProjectEuler
  - CodeSignal
+ - CodeEval
+
 
 ### Links
     https://projecteuler.net/
@@ -57,3 +59,4 @@ Learning Competitive Programming
     https://www.codechef.com/
     https://www.geeksforgeeks.org/
     http://codeforces.com/
+    https://www.codingame.com/start
