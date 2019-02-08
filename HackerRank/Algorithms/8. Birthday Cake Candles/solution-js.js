@@ -32,8 +32,7 @@ function birthdayCakeCandles(n, ar) {
                 max = ar[i];
                 result = 1;
             }
-        }
-        
+        }     
     }
     
     return result;
