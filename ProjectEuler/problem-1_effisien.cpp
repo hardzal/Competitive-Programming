@@ -7,6 +7,6 @@ int sumDivisibleBy(int target, int n) {
 }
 
 int main() {
-    cout << sumDivisibleBy(999, 3) + sumDivisibleBy(999, 5) - sumDivisibleBy(999, 15) << endl;
+    cout << sumDivisibleBy(999, 3) + sumDivisibleBy(999, 5) - sumDivisibleBy(999, 15) << std::endl;
     return 0;
 }
